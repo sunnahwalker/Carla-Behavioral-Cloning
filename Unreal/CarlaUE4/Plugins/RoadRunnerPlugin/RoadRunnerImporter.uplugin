@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "RoadRunnerImporter",
+	"Description" : "Imports FBX files with RoadRunner metadata.",
+	"Category" : "Other",
+	"CreatedBy" : "VectorZero Inc.",
+	"CreatedByURL" : "http://www.vectorzeroinc.com/",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "http://www.vectorzeroinc.com/",
+	"CanContainContent" : true,
+	"IsBetaVersion" : false,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "RoadRunnerImporter",
+			"Type" : "Developer",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
